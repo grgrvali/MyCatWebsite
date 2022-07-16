@@ -1,0 +1,18 @@
+.box{
+    background:rgb(250, 162, 153);
+    height: 500vh;
+}
+
+h1{
+    color:rgb(105, 44, 44)
+}
+h2{
+    color:rgb(104, 46, 46)
+}
+
+hr{
+    border-color: brown;
+}
+table{
+    background-color: rgb(230, 113, 128);
+}
